@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h3 align="center">A passionate UI/UX Designer from Philippines</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://steamuserimages-a.akamaihd.net/ugc/2044118652221292101/26F8E87A2A1A55660CD5613942D3E3416CBB22D5/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)">
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/2011467004295931235/5E97DB1B34585CAD915BDBF583BD9E991C9AC26E/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiro2-3&label=Profile%20views&color=0e75b6&style=flat" alt="kiro2-3" /> </p>
 
