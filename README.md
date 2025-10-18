@@ -1,5 +1,4 @@
 
-<h3 align="center">A passionate Game graphics artist from Philippines</h3>
 
 <img align="right" alt="Coding" width="1700" src="https://steamuserimages-a.akamaihd.net/ugc/2011467004295931235/5E97DB1B34585CAD915BDBF583BD9E991C9AC26E/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
